@@ -7,7 +7,7 @@ Note: You'll need to install the package "pathvalidate" to run this project.
 
 ### Example:
 
-To extract the 3 playlists in the 'example.plif' file contained in this repo to seperate CSV files, type the following at a macOS command prompt:
+To extract the 3 playlists in the 'example.plif' file to 3 seperate CSV files, type the following at a macOS command prompt:
 
 `% python3 extract_playlists.py example.plif`
 
