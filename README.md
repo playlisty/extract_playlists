@@ -1,7 +1,7 @@
 # extract_playlists
 A simple Python script to extract playlist CSV files from a PLIF (PlayList Interchange Format) file
 
-Syntax: `extract_playlists <filename.plif>`
+Syntax: `extract_playlists.py <filename.plif>`
 
 Note: You'll need to install the package "pathvalidate" to run this project.
 
